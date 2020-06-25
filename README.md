@@ -1,0 +1,2 @@
+# fusuma
+My fusuma settings
